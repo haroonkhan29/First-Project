@@ -111,3 +111,5 @@
 
 // const isAdmin = false;
 // !isAdmin  ? console.log('Not') : console.log('admin')
+const test = 'sami'
+console.log(test)
